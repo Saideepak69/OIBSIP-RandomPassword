@@ -6,9 +6,5 @@ This internship will involve challenging opportunities, real-world projects. Itâ
 We develop personalized software at our company, we turn the digital dreams of our clients into a realiy.We work closely with our users throughout development to ensure that we are still aligned with the end-goal. We are committed to producing exceptional software for each of our clients.
 We at oasis infobyte believe in making our youth especially the students self-aware and exploring the untouched world of technology and tremendous growth-making fields. We believes in bridging the gap between students and their knowledge in the industrial field & bringing them a step closer to their dream. We are msme registered start-up, always open to connect new people with us over this journey of endless learning and great joy!
 
-## Project-1
-BMI Calculator
 ## Project-2
 Simple Password Generator
-## Project-3
-Browser-Based Chat Application 
